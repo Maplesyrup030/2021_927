@@ -38,22 +38,14 @@ Strikethrough uses two tilds. ~~Scratch this.~~
 
 1. First ordered list item
 2. Another item
-
-   ⋅⋅* Unordered sub-list. 
-   
-3. Actual numbers don't matter, just that it's a number
-
-   ⋅⋅1. Ordered sub-list.
-   
- ...2. 2nd
- 
+  * Unordered sub-list. 
+1. Actual numbers don't matter, just that it's a number
+  1. Ordered sub-list
+  2. 2nd
 4. And another item.
-
-   ⋅⋅⋅* note 1
-   
-   ⋅⋅⋅* note 2
-   
-   *** note 3
+   * note 1
+   * note 2
+   * note 3
 
 ---
 
@@ -64,7 +56,7 @@ Strikethrough uses two tilds. ~~Scratch this.~~
 
 python code 
 
-```python
+```python {.line-numbers}
 s = "Python syntax highlighting"
 print s
 ```
@@ -73,7 +65,7 @@ print s
 
 javascript code
 
-```javascript
+```javascript {.line-numbers}
 var s = "JavaScript syntax highlighting";
 alert(s);
 ```
