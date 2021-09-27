@@ -56,7 +56,7 @@ Strikethrough uses two tilds. ~~Scratch this.~~
 
 python code 
 
-```python {.line-numbers}
+```python 
 s = "Python syntax highlighting"
 print s
 ```
@@ -65,7 +65,7 @@ print s
 
 javascript code
 
-```javascript {.line-numbers}
+```javascript 
 var s = "JavaScript syntax highlighting";
 alert(s);
 ```
