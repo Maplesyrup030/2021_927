@@ -1,6 +1,7 @@
 # (1)PERT/CPM 圖
 
-![nwe fig](catgun.png "貓貓槍")
+![new fig](PERT.PNG "PERT")
+
 
 # (2)甘特圖
 
